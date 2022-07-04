@@ -1,4 +1,4 @@
-Algoritmo "terreno"
+Algoritmo "multiplos"
 
 Var
 
@@ -13,10 +13,10 @@ Escreval ("dois numeros inteiros")
  leia (y)
  
  Se (x % y = 0) ou ( y % x = 0) entao
-  Escreval ("S„o multiplos")
+  Escreval ("S√£o multiplos")
   
  Senao
-  Escreval (" N„o s„o multiplos")
+  Escreval (" N√£o s√£o multiplos")
   
   fimse
 
